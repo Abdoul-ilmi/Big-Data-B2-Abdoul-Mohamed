@@ -1,0 +1,14 @@
+# Environnement virtuel
+venv/
+.venv/
+
+# Fichiers Python temporaires
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code / Windows
+.vscode/
+Thumbs.db
